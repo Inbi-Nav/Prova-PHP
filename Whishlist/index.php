@@ -24,3 +24,5 @@ foreach ($rpgs as $g) {
 
 echo "<h2>Juego más barato:</h2>";
 echo juegoMasBarato($myWishlist);
+
+?>
